@@ -1,4 +1,4 @@
-name: Mengyang Sun
+name: Simon Young
 gender: male
 height: 190cm
 weight: 90kg
