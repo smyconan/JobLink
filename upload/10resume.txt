@@ -1,0 +1,5 @@
+name: Jay Chou
+gender: male
+height: 170cm
+weight: 60kg
+nationality: Taiwan,China
